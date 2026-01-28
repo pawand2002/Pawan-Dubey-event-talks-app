@@ -1,0 +1,12 @@
+{
+  "name": "event-website",
+  "version": "1.0.0",
+  "description": "A single-page website for a 1-day technical event.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

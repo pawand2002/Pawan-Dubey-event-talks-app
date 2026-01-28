@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Talks Today</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    #search-container {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #search {
+      width: 300px;
+      padding: 10px;
+    }
+    #schedule {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .talk {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 15px;
+    }
+    .talk h3 {
+      margin-top: 0;
+    }
+    .talk .speakers {
+      font-style: italic;
+    }
+    .talk .category {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tech Talks Today</h1>
+  <div id="search-container">
+    <input type="text" id="search" placeholder="Search by category...">
+  </div>
+  <div id="schedule">
+    <!-- Schedule will be injected here by the build script -->
+  </div>
+  <script>
+    // JavaScript will be injected here by the build script
+  </script>
+</body>
+</html>

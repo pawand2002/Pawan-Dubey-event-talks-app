@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Generated files
+index.html
+
+# macOS
+.DS_Store

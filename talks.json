@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["John Doe"],
+    "category": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what we can expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Jane Smith", "Peter Jones"],
+    "category": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn how to design and build web applications that can handle millions of users without breaking a sweat."
+  },
+  {
+    "title": "Cybersecurity in the Modern World",
+    "speakers": ["Mary Johnson"],
+    "category": ["Cybersecurity", "Networking"],
+    "duration": 60,
+    "description": "An overview of the current cybersecurity landscape and how to protect yourself and your organization from cyber threats."
+  },
+  {
+    "title": "The Rise of Serverless Architectures",
+    "speakers": ["David Lee"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless computing and how to leverage it to build cost-effective and scalable applications."
+  },
+  {
+    "title": "A Practical Guide to DevOps",
+    "speakers": ["Chris Green", "Sarah Brown"],
+    "category": ["DevOps", "CI/CD"],
+    "duration": 60,
+    "description": "Learn the best practices for implementing DevOps in your organization and how to automate your development pipeline."
+  },
+  {
+    "title": "The Power of Big Data Analytics",
+    "speakers": ["Michael Clark"],
+    "category": ["Big Data", "Data Science"],
+    "duration": 60,
+    "description": "Explore the world of big data and how to use it to gain valuable insights and make data-driven decisions."
+  }
+]
